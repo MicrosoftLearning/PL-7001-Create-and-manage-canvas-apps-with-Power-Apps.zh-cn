@@ -65,9 +65,11 @@ lab:
 
 ### 任务 1.3 - 添加导航
 
-1. 在 **MainScreen** 的 **BookingRequestList** 中选择 **NextArrow**。
+1. 在“树状视图”中****，展开“MainScreen”**** 中的“BookingRequestList”****。
 
-1. 将 NextArrow 的“**OnSelect**”属性设置为：
+1. 在“BookingRequestList”中选择“NextArrow”********。
+
+1. 将公式栏中“NextArrow”的“OnSelect”**** 属性设置为：
 
     ```powerappsfl
     Collect(colRequests, ThisItem);Navigate(DetailScreen, ScreenTransition.Cover);
@@ -90,6 +92,8 @@ lab:
 1. 在“**树视图**”中，选择图标并选择“命令”（**...**），然后选择“**复制**”。
 
 1. 展开 **DetailScreen**。
+
+1. 展开 **ScreenContainer**。
 
 1. 选择 **HeaderContainer**，然后选择“命令”（**...**），然后选择“**粘贴**”。
 
@@ -119,7 +123,7 @@ lab:
 
     ![默认格式字段的屏幕截图。](../media/add-fields-default.png)
 
-1. 选择字段旁边的省略号（**...**）并选择“**删除**”，从而删除“**创建时间**”。
+1. 通过选择字段旁边的省略号（“...”****），然后选择“移除”**** 来移除“创建时间”****。
 
 1. 选择“**+添加字段**”并选择以下字段：
 
@@ -148,7 +152,7 @@ lab:
 
 1. **关闭**“**字段**”窗格。
 
-1. 将表单查看器控件的“**项**”属性设置为：
+1. 将公式栏中窗体查看器控件的“Item”**** 属性设置为：
 
     ```powerappsfl
     BookingRequestList.Selected
@@ -222,7 +226,7 @@ lab:
 
 1. 选择“**字段**”旁边的“**已选择 2 个**”
 
-1. 选择字段旁边的省略号（**...**）并选择“**删除**”，从而删除“**创建时间**”。
+1. 通过选择字段旁边的省略号（“...”****），然后选择“移除”**** 来移除“创建时间”****。
 
 1. 选择“**+添加字段**”并选择以下字段：
 
@@ -266,7 +270,7 @@ lab:
 
     ![配置的预订请求表单的屏幕截图。](../media/bookingrequestform.png)
 
-### 任务 3.2 - “添加提交”按钮
+### 任务 3.2 - 添加“提交”按钮
 
 1. 在应用创作菜单中，选择“**树状视图**”。
 
