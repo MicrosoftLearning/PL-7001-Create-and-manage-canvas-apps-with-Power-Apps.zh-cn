@@ -29,7 +29,7 @@ lab:
 
 ### 任务 1.1 - 创建预订请求表
 
-1. 导航到 Power Apps Maker 门户 <https://make.powerapps.com>。
+1. 导航到 Power Apps 制作者门户 (`https://make.powerapps.com`)
 
 1. 确保你位于 **Dev One** 环境中。
 
@@ -39,7 +39,7 @@ lab:
 
     ![在 Dataverse 中创建新表的屏幕截图。](../media/create-new-table-dataverse.png)
 
-1. 选择“新建表”旁编的“**铅笔**”图标
+1. 选择“新建表”**** 旁边的“编辑表属性”**** 铅笔图标。
 
     ![新表名称的屏幕截图。](../media/table-name.png)
 
@@ -145,7 +145,7 @@ lab:
 
 ### 任务 2.1 - 创建查找列
 
-1. 导航到 Power Apps Maker 门户 <https://make.powerapps.com>。
+1. 导航到 Power Apps 制作者门户 (`https://make.powerapps.com`)
 
 1. 确保你位于 **Dev One** 环境中。
 
@@ -209,3 +209,4 @@ lab:
    1. 决策：已拒绝****
 
 1. 关闭“编辑数据”选项卡。
+
