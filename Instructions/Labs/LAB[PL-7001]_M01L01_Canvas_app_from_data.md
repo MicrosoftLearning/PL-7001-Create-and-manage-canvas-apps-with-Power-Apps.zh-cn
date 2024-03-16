@@ -41,7 +41,7 @@ lab:
 
     ![OneDrive 图标的屏幕截图。](../media/select-onedrive.png)
 
-1. 选择“OneDrive 已准备就绪”****。
+1. 如果显示弹出窗口，请选择“你的 OneDrive 已就绪”。****
 
 1. 依次选择“+ 新增”、“文件上传”********。
 
@@ -50,6 +50,7 @@ lab:
 1. 浏览到“下载”并选 CoffeeMachineData.xlsx 文件，然后选择“打开”****。
 
 1. 选择“我的文件”并验证是否已上传 CoffeeMachineData.xlsx****。
+
 
 ## 练习 2 - 生成三屏画布应用
 
@@ -75,13 +76,14 @@ lab:
 
 1. 选择“连接” 。
 
+1. 如果显示“欢迎使用 Power Apps Studio”弹出对话框，请选择“不再向我显示此信息”，然后选择“跳过”。************
+
 1. 等待生成应用。
 
     ![三屏应用中的“浏览”屏幕的屏幕截图。](../media/three-screen-app-browse-screen.png)
 
-1. 如果显示“**欢迎使用 Power Apps Studio**”弹出对话框，请选择“**不再向我显示此信息**”，然后选择“**跳过**”。
-
 1. 选择 Power Apps Studio 右上角的“保存”，输入 `Coffee Machines App` 然后选择“保存”********。
+
 
 ### 任务 2.2 - 测试应用
 
@@ -109,21 +111,22 @@ lab:
 
 1. 选择右上角的“X”以停止预览****。
 
-1. 如果显示“**你知道吗？**”弹出对话框，选择“**不再显示此信息**”，然后选择“**确定**”。
+1. 如果显示“你是否知道？”弹出对话框，请选择“不再向我显示此信息”，然后选择“确定”。************
 
 1. 选择命令栏左上角的“**<- 返回**”按钮，然后选择“**退出**”以退出应用。
+
 
 ## 练习 3 - 使用 Copilot 生成画布应用
 
 ### 任务 3.1 - 创建应用
 
-1. 导航到 Power Apps 创建者门户 <https://make.powerapps.com>。
+1. 导航到 Power Apps 制作者门户 (`https://make.powerapps.com`)
 
-1. 确保你位于“Dev One”环境中。****
+1. 确保你位于 **Dev One** 环境中。
 
-1. 从左侧菜单中选择“主页”选项卡。****
+1. 从左侧导航菜单中选择“开始”选项卡。****
 
-1. 在“让我们生成一个应用。**** 它应该有哪些功能？”下输入 `Track coffee machine repairs for customers and assign repairs to technicians` 并选择箭头图标。
+1. 在“让我们生成一个应用。**它应该做什么？** 输入 `Track coffee machine repairs for customers and assign repairs to technicians` 并选择用于提交的“前往”箭头图标。****
 
     ![copilot 提示的屏幕截图。](../media/copilot-prompt.png)
 
