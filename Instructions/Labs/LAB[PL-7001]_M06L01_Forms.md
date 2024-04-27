@@ -41,7 +41,7 @@ lab:
 
 1. 确保你位于 **Dev One** 环境中。
 
-1. 从左侧导航菜单中选择“应用”选项卡****。
+1. 从左侧导航菜单中选择“应用”选项卡。****
 
 1. 选择 **“预订请求”应用**，选择“命令”（“**...**”），然后选择 **“编辑”>“在新选项卡中编辑”**。
 
@@ -108,9 +108,9 @@ lab:
 
 1. 展开 **DetailScreen**。
 
-1. 展开 **ScreenContainer**。
+1. 展开 ScreenContainer1****。
 
-1. 选择 **MainContainer**。
+1. 选择 MainContainer1****。
 
 1. 在应用创作菜单中，选择“**插入 (+)**”。
 
@@ -167,9 +167,9 @@ lab:
 
 1. 展开 **DetailScreen**。
 
-1. 展开 **ScreenContainer**。
+1. 展开 ScreenContainer1****。
 
-1. 选择 **FooterContainer**。
+1. 选择 FooterContainer1****。
 
 1. 在页脚容器中选择 **+**。
 
@@ -189,9 +189,9 @@ lab:
 
 1. 展开 **DetailScreen**。
 
-1. 展开 **ScreenContainer**。
+1. 展开 ScreenContainer1****。
 
-1. 选择 **FooterContainer**。
+1. 选择 FooterContainer1****。
 
 1. 在应用创作菜单中，选择“**插入 (+)**”。
 
@@ -304,7 +304,7 @@ lab:
 
 1. 选择 **BookingRequestForm**。
 
-1. 将按钮的“**OnSuccess**”属性设置为：
+1. 将窗体的 OnSuccess**** 属性设置为：
 
     ```powerappsfl
     Navigate(MainScreen, ScreenTransition.UnCover)
