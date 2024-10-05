@@ -126,15 +126,22 @@ lab:
 
 1. 从左侧导航菜单中选择“开始”选项卡。****
 
-1. 在“让我们生成一个应用。**它应该做什么？** 输入 `Track coffee machine repairs for customers and assign repairs to technicians` 并选择用于提交的“前往”箭头图标。****
+1. 在“让我们生成一个应用。**它应该做什么？** 输入 `Assign coffee repairs to technicians per customer request` 并选择用于提交的“前往”箭头图标。****
 
     ![copilot 提示的屏幕截图。](../media/copilot-prompt.png)
 
+    Copilot 将开始构建表格结构以支持应用程序。
+
+    > **重要提示：** 使用生成式 AI 时，不会始终获得相同的确切结果。 你的表格可能与为其他学生创建的表格不完全匹配。 
+
+    > 若要查看表结构，请选择该表并单击“**查看数据**”按钮 
 1. 查看表
 
     ![copilot 表的屏幕截图。](../media/copilot-table.png)
 
-1. 选择“创建应用”****
+1. 对表格满意后，选择“**保存并打开应用**”按钮。 
+
+1. 如有必要，在“**已完成工作？**”屏幕上，选择“**不再询问我**”，然后选择“**保存并打开应用**”按钮。 
 
 1. 等待生成应用。
 
