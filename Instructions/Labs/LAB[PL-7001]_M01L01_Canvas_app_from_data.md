@@ -29,7 +29,7 @@ lab:
 
 ### 任务 1.1 - 下载 Excel 电子表格
 
-1. 导航到 CoffeeMachineData.xlsx[](https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx)。
+1. 在 Web 浏览器中，导航到位于 `https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx` 的 [CoffeeMachineData.xlsx](https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx)。
 
 1. 选择“原始文件”按钮以下载 Excel 工作簿****。
 
